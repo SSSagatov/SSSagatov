@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Sanzhar Sagatov
 
-### Junior DevOps / Cloud Engineer
+### Software Engineer
 
 📍 Astana, Kazakhstan  
 🎓 Software Engineering @ Astana IT University  
-💻 Go & Python Backend → DevOps / Cloud
+💻 Go Backend → DevOps / Cloud
 
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Sagatov00001@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-SSSagatov-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SSSagatov)
