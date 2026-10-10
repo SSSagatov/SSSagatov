@@ -139,4 +139,3 @@ Projects:
 
 ## 📫 Let's Connect
 
-I'm currently open to **Junior DevOps / Cloud Engineer** and **DevOps Trainee** opportunities.
