@@ -56,7 +56,7 @@ My goal is to combine software development with infrastructure, deployment autom
 
 ## 💼 Experience
 
-### 🇰🇿 Agency of the Republic of Kazakhstan for Financial Monitoring
+### 🇰🇿 Financial Monitoring Agency of Kazakhstan Republic
 
 **Backend Developer — Go / Python**
 
