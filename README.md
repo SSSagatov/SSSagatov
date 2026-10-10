@@ -33,7 +33,7 @@ My goal is to combine software development with infrastructure, deployment autom
 
 ### Backend & Automation
 
-![Backend](https://skillicons.dev/icons?i=go,python,bash)
+![Backend](https://skillicons.dev/icons?i=go,bash)
 
 ### Databases
 
